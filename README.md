@@ -19,4 +19,4 @@
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/malimehul73) | [Email](malimehul2111@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/malimehul73) | malimehul2111@gmail.com
