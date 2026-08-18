@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mehul Mali 👋
 
-<!--
-**malimehul01/malimehul01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Native Android Engineer** specializing in Kotlin, Jetpack Compose, and Clean Architecture. Experienced in engineering resilient background services, real-time sync systems, and modern Android authentication pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** Kotlin
+- **UI & Architecture:** Jetpack Compose, Clean MVVM, StateFlow, SharedFlow, Coroutines
+- **Android APIs:** Foreground Services, WorkManager, Google Credential Manager, Phone Number Hint API
+- **Backend & Cloud:** Firebase (Auth, Firestore), REST APIs
+- **Tools:** Android Studio, Git, GitHub, Gradle
+
+---
+
+### 🚀 Featured Work
+* **[ShaktiTap](https://play.google.com/store/apps/details?id=com.mddevlabs.shaktitap)** – Production personal safety & background tracking application.
+* **Seamless Auth Engine** – Decoupled modern onboarding pipeline leveraging Credential Manager API.
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/malimehul73) | [Email](mailto:malimehul2111@gmail.com)
