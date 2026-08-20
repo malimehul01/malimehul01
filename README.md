@@ -58,7 +58,7 @@
 
 ### 🚀 Featured Repositories
 * **[ShaktiTap](https://play.google.com/store/apps/details?id=com.mddevlabs.shaktitap)** – Production Android safety application with background location & sensor triggers.
-* **Seamless Auth Engine** – Decoupled, modular Android authentication framework built with Credential Manager API.
+* **android-credential-auth-flow** – Decoupled, modular Android authentication framework built with Credential Manager API.
 
 ---
 
