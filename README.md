@@ -57,8 +57,9 @@
 ---
 
 ### 🚀 Featured Repositories
-* **[ShaktiTap](https://play.google.com/store/apps/details?id=com.mddevlabs.shaktitap)** – Production Android safety application with background location & sensor triggers.
-* **android-credential-auth-flow** – Decoupled, modular Android authentication framework built with Credential Manager API.
+- **[ShaktiTap](https://play.google.com/store/apps/details?id=com.mddevlabs.shaktitap)** – Production Android safety application with background location & sensor triggers.
+- **[MarketPlus](https://github.com/malimehul01/MarketPlus)** – Offline-first crypto dashboard leveraging Room Database (@Upsert), Retrofit REST APIs, and Coroutines Flow.
+- **[android-credential-auth-flow](https://github.com/malimehul01/android-credential-auth-flow.git)** – Decoupled, modular Android authentication framework built with Credential Manager API.
 
 ---
 
